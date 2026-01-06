@@ -6,7 +6,7 @@ My mission is on civilizational and cosmic scale involving physics, technology, 
 
 ## Domains
 - Science  
-  - Physics, chemistry, biology, astrophysics
+- Physics, chemistry, biology, astrophysics
 - Engineering and computing
 - Systems thinking
 - Philosophy
