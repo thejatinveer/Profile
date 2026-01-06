@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jatin Veer
 
-<!--
-**thejatinveer/thejatinveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jatin Veer. I work across science, math, engineering, computation, programming, philosophy, cosmology, astronomy and more.
 
-Here are some ideas to get you started:
+My mission is on civilizational and cosmic scale involving physics, technology, civilization, and systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Domains
+- Science  
+  - Physics, chemistry, biology, astrophysics
+- Engineering and computing
+- Systems thinking
+- Philosophy
+- Psychology
+- AI and Technology
+
+## Principles
+Absolute ethics, science, meta-physics, civilization, protection, and understanding the universe.
+
+Because we are nothing but the universe exploring itself.
+
+## Current Phase
+Right now, I am in my foundational phase.
