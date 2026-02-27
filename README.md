@@ -1,22 +1,38 @@
-# Jatin Veer
+# Jatin
 
-I am Jatin Veer. I work across science, math, engineering, computation, programming, philosophy, cosmology, astronomy and more.
+I work across civilizational and cosmic scale systems  
+involving complex systems, science, AI & technology, philosophy, cosmology, aviation and more.
 
-My mission is on civilizational and cosmic scale involving physics, technology, civilization, and systems.
+Whatever I do at any level of reality is done with  
+absolute ethics,  
+systems and long horizon thinking,  
+multidomain effects,  
+interdisciplinary approach.
 
-## Domains
-- Science  
-- Physics, chemistry, biology, astrophysics
-- Engineering and computing
-- Systems thinking
-- Philosophy
-- Psychology
-- AI and Technology
+This includes mathematics, logic, metaphysics, ontology, epistemology, consciousness and so on.  
+All resting on Universal, Timeless, Ancient, modern, minimal, Absolute, and True as load-bearing pillars.  
+Not academic definitions — the maximum precision epistemology allows, backed by true definitions.
 
-## Principles
-Absolute ethics, science, meta-physics, civilization, protection, and understanding the universe.
+### Current phase
+Foundational.
 
-Because we are nothing but the universe exploring itself.
+### Domains (overlapping)
+- Complex systems & emergence
+- AI & technology / machine cognition / large-scale alignment
+- Cosmology & fundamental physics
+- Philosophy: metaphysics, ontology, epistemology, axiology
+- Consciousness & biological intelligence
+- Aviation / aerospace systems
+- Civilizational dynamics & long-term trajectories
+- Mathematics, logic, formal tools (category theory, topology, etc.)
 
-## Current Phase
-Right now, I am in my foundational phase.
+### How
+Refuse artificial domain boundaries.  
+Seek junctions that matter.  
+Lift to higher abstraction or lower ontology when required.  
+Maximize freedom in thought — constrain ethical action rigidly.  
+Reality is structured far beyond default human frames — act accordingly.
+
+If this resonates as necessary (not optional), and you already think and connect at this scale, reach out.
+
+No small talk. Signal only.
