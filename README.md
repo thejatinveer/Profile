@@ -1,38 +1,39 @@
 # Jatin
 
-I work across civilizational and cosmic scale systems  
-involving complex systems, science, AI & technology, philosophy, cosmology, aviation and more.
+I design and model long-horizon civilizational and cosmic systems.
 
-Whatever I do at any level of reality is done with  
-absolute ethics,  
-systems and long horizon thinking,  
-multidomain effects,  
-interdisciplinary approach.
+**Current phase:** Foundational.
 
-This includes mathematics, logic, metaphysics, ontology, epistemology, consciousness and so on.  
-All resting on Universal, Timeless, Ancient, modern, minimal, Absolute, and True as load-bearing pillars.  
-Not academic definitions — the maximum precision epistemology allows, backed by true definitions.
+---
 
-### Current phase
-Foundational.
+## Core Orientation
 
-### Domains (overlapping)
-- Complex systems & emergence
-- AI & technology / machine cognition / large-scale alignment
-- Cosmology & fundamental physics
-- Philosophy: metaphysics, ontology, epistemology, axiology
-- Consciousness & biological intelligence
-- Aviation / aerospace systems
-- Civilizational dynamics & long-term trajectories
-- Mathematics, logic, formal tools (category theory, topology, etc.)
+- Systems-level thinking across domains  
+- Formal reasoning (mathematics, logic, abstraction)  
+- Cross-disciplinary synthesis  
+- Absolute ethical constraints  
+- Long-term trajectory focus (multi-decade to multi-millennial scale)
 
-### How
-Refuse artificial domain boundaries.  
-Seek junctions that matter.  
-Lift to higher abstraction or lower ontology when required.  
-Maximize freedom in thought — constrain ethical action rigidly.  
-Reality is structured far beyond default human frames — act accordingly.
+---
 
-If this resonates as necessary (not optional), and you already think and connect at this scale, reach out.
+## Active Axes
 
-No small talk. Signal only.
+- Complex adaptive systems & emergence  
+- AI systems & large-scale alignment  
+- Fundamental physics & cosmology  
+- Aerospace architecture  
+- Civilizational dynamics  
+- Consciousness & biological intelligence  
+- Formal tools (mathematics, logic, category theory)
+
+---
+
+## Method
+
+- Model reality and phenomena as systems with fundamental and emergent properties  
+- Reduce systems to three primitives: matter, energy, and information — and their emergent interactions  
+- Combine structural insights across domains rather than isolating disciplines  
+- Evolve architectures continuously instead of discarding them  
+- Use formal tools aggressively; when models fail, analyze the structural layer beneath them  
+- Design for horizons spanning decades to millennia  
+- Reduce apparent complexity to underlying mathematical structure
